@@ -1,10 +1,20 @@
-Basics: Uniswap v3 Whitepaper: https://uniswap.org/whitepaper-v3.pdf
-Impermantent Loss: https://medium.com/coinmonks/understanding-impermanent-loss-9ac6795e5baa
+== Basics == 
 
-Price of Uniswap Oracle Manipulation: https://oracle.euler.finance/
-Implied Vol of Uniswap LP Positions:
+Uniswap v3 Whitepaper
+https://uniswap.org/whitepaper-v3.pdf
+Impermantent Loss
+https://medium.com/coinmonks/understanding-impermanent-loss-9ac6795e5baa
+Impermanent Loss Hedging
+https://www.linkedin.com/pulse/how-hedge-impermanent-loss-defi-farming-cth-ideg/
 
-Analytics:
+
+
+
+=================
+
+Price of Uniswap Oracle Manipulation
+https://oracle.euler.finance/
+Implied Vol of Uniswap LP Positions
 https://info.yewbow.org/#/
 
 Papers:
@@ -14,6 +24,5 @@ https://lambert-guillaume.medium.com/gamma-transforms-how-to-hedge-squeeth-using
 https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273
 
 Products:
-
-Panoptics
-Orbit Markets
+-Panoptics
+-Orbit Markets
