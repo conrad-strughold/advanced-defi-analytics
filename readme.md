@@ -2,8 +2,10 @@
 
 Uniswap v3 Whitepaper
 https://uniswap.org/whitepaper-v3.pdf
+
 Impermantent Loss
 https://medium.com/coinmonks/understanding-impermanent-loss-9ac6795e5baa
+
 Impermanent Loss Hedging
 https://www.linkedin.com/pulse/how-hedge-impermanent-loss-defi-farming-cth-ideg/
 
@@ -14,6 +16,7 @@ https://www.linkedin.com/pulse/how-hedge-impermanent-loss-defi-farming-cth-ideg/
 
 Price of Uniswap Oracle Manipulation
 https://oracle.euler.finance/
+
 Implied Vol of Uniswap LP Positions
 https://info.yewbow.org/#/
 
