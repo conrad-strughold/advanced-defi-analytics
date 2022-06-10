@@ -1,3 +1,6 @@
+Basics: Uniswap v3 Whitepaper: https://uniswap.org/whitepaper-v3.pdf
+
+
 Price of Uniswap Oracle Manipulation: https://oracle.euler.finance/
 Implied Vol of Uniswap LP Positions:
 
